@@ -13,7 +13,7 @@ setSolVol.py -l/-dl -1.5 1.6 0.3
 ```
 
 
-#### Usage: Option -i/-di creates directories of individual dnelect. For dnelect values 1.0 -1.0 -1.2 , use the below command.
+#### Usage: Option -i/-di creates directories of individual dnelect. For dnelect values 1.0, -1.0, -1.2 , use the below command.
 ```bash
 setSolVol.py -i/-di 1.0 -1.0 -1.2
 ```
