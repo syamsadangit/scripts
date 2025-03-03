@@ -6,6 +6,7 @@ Usage
 reactQuant.py
 
 <u>setSolVol.py</u>
+
 For geometry optimisations with varying N electrons (voltage scan) use options -l or -i
 For Dimer calculations with varying N electrons (voltage scan) use options -dl or -di
  
