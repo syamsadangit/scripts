@@ -17,6 +17,8 @@ setSolVol.py -l/-dl -1.5 1.6 0.3
 ```bash
 setSolVol.py -i/-di 1.0 -1.0 -1.2
 ```
+If convergence issues occur at higher absolute dnelect values, try options `-i` or `-di` to create dnelect close to 0 (eg. 0.3, -0.3) and use these converged calculations to start higher absolute dnelect values.
+
 The calculations will request 3 (4) days for geometry optimisation (Dimer calculation). If need to change, find it in setSolVol.py by, 
 
 ```bash
