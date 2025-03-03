@@ -3,7 +3,7 @@ Python and Bash scripts to run and post-process VASP calculations.
 
 ### `setSolVol.py`  
 
-For geometry optimisations with varying N electrons (voltage scan) use options -l or -i. For Dimer calculations with varying N electrons (voltage scan) use options -dl or -di
+For geometry optimisations with varying N electrons (voltage scan) use options `-l` or `-i`. For Dimer calculations with varying N electrons (voltage scan) use options `-dl` or `-di`.
  
 
 
